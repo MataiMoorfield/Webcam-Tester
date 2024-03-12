@@ -11,7 +11,7 @@ Enter the directory:
 ```
 cd Webcam-Tester
 ```
-Install teh reqirements:
+Install the reqirements:
 ```
 pip install -r requirements.txt
 ```
