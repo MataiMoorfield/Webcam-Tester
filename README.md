@@ -15,6 +15,8 @@ Install the reqirements:
 ```
 pip install -r requirements.txt
 ```
+> Double check the webcam location in the Python code.
+
 Run the Python script:
 ```
 python main.py
