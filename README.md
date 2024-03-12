@@ -15,7 +15,7 @@ Install the reqirements:
 ```
 pip install -r requirements.txt
 ```
-> Double check the webcam location in the Python code.
+Double check the webcam location in the Python code. External webcams defult to 0 (```cv2.VideoCapture(0)```).
 
 Run the Python script:
 ```
